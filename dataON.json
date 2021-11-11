@@ -4,7 +4,7 @@
 
     "AdsController": [
       {
-        "NetworkAds": "mix",
+        "NetworkAds": "admob",
         "AdMobId": "pub-9538560537207481",
 
         "BannerAdmob": "ca-app-pub-9538560537207481/7539570980",
